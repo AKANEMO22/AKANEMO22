@@ -84,9 +84,14 @@ retrieval pipelines and their evaluation, voice interfaces (TTS/STT), and explai
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AKANEMO22&show_icons=true&hide_title=false&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKANEMO22&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKANEMO22&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKANEMO22&theme=github_dark" alt="Most commit language" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKANEMO22&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&title_color=e6edf3" alt="Contribution graph" />
+<img height="180" src="https://streak-stats.demolab.com?user=AKANEMO22&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Contribution streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKANEMO22&theme=github_dark&utcOffset=7" alt="Productive time" />
+
+<br/><br/>
+
+<img width="90%" src="https://ghchart.rshah.org/2f81f7/AKANEMO22" alt="Contribution chart" />
 
 </div>
